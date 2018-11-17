@@ -1,7 +1,7 @@
 # testowe-repo
 Zajęcia2 - tematy Git
 
-<h1>Lista plików:
+<h3>Lista plików:</h3>
 
 txt:
 
