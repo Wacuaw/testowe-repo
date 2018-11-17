@@ -8,5 +8,6 @@ public class HelloWorld {
             System.out.print("=");
 
         System.out.println();
+        //komentarz pierwszy
     }
 }
